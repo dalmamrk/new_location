@@ -124,5 +124,16 @@ const annunci = [
     foto: "immagini/11.jpg",
     link: "https://www.immobiliare.it/annunci/132445894/",
     note: ""
+  },
+  {
+    titolo: "Trofarello - Via Sabbioni, 7",
+    indirizzo: "Via Sabbioni 7, Trofarello (TO)",
+    prezzo: "2.000 €/mese",
+    mq: 424,
+    lat: 44.9751,
+    lng: 7.7508,
+    foto: "immagini/12.jpg",
+    link: "https://www.immobiliare.it/annunci/130713260/",
+    note: ""
   }
 ];
