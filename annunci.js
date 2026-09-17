@@ -135,5 +135,16 @@ const annunci = [
     foto: "immagini/12.jpg",
     link: "https://www.immobiliare.it/annunci/130713260/",
     note: ""
+  },
+  {
+    titolo: "Carmagnola - Via Vado della Valle",
+    indirizzo: "Via Vado della Valle, Carmagnola (TO)",
+    prezzo: "700 €/mese",
+    mq: 350,
+    lat: 44.8384,
+    lng: 7.7046,
+    foto: "immagini/13.jpg",
+    link: "https://www.immobiliare.it/annunci/127422377/",
+    note: ""
   }
 ];
